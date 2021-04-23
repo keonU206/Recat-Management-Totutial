@@ -1,3 +1,6 @@
+##management System
+본 프로젝트는 초보가 직접 피땀을 흘려 만든 프로젝트입니다 참고로 리액트 노드는 입문한지 지금 1시간 되었습니다
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
